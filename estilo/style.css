@@ -7,8 +7,32 @@ body{
 }
 main{
     background-color: white;
-    width: 500px;
+    width: 560px;
     margin: auto;
     padding: 10px;
     box-shadow: 3px 3px 5px rgba(63, 61, 61, 0.726);
+}
+h1{
+    font-size: 2em;
+    color: crimson;
+}
+h2{
+    font-size: 1.5em;
+    color: rgb(228, 70, 102);
+}
+img.lado{
+    float: right;
+}
+img.code{
+    width: 550px;
+    height: 300px;
+}
+a{
+    text-decoration: none;
+    font-weight: bold;
+    color: crimson;
+}
+a:hover{
+    text-decoration: underline;
+    color: rgb(228, 70, 102);
 }
